@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## [Rockband Rivals mode FAQ](https://rockbandrivalsfaq.github.io)
 
 This is an FAQ of the Rivals competitive mode for the Harmonix console game RockBand.
 
