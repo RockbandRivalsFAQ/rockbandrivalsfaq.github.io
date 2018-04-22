@@ -28,7 +28,9 @@ To have fun playing RB while challenging yourself and cheering your crewmates on
 
 Oh, you mean specifically. There are essentially two things you can compete for:
 
-- Season Points define your overall position in the competition. The crew with the most Season Points wins (but see [Ties](#ties)
+- Season Points define your overall position in the competition. The crew with the most Season Points wins (but see [Ties](#ties))
+
+- There are also 6 tiers (see [Tiers](#tiers) and many crews vie for promotion for the top tier.
 
 ### Season and Challenge
 
@@ -43,6 +45,14 @@ Challenges start at 15:00 in the US East Coast time on Thursdays, and end midnig
 _Timezone-wise that is EDT in the winter and EST in the summer_ or if you are confused, in whatever time it is in New York City.
 
 That makes it a 39 hour gap between challenges. 
+
+## Gameplay: Scoring and Promotion
+
+### Tiers
+
+There are 6 tiers:
+
+
 
 ## Gameplay: Spotlight Songs
 
