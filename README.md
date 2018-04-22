@@ -10,6 +10,8 @@ See the end of the file on how to contribute additions or corrections. Anything 
 
 To play, you either have to have Rockband 4 and then buy the Rivals expansion, or you can buy both as a bundle.  
 
+The game is available on PS4 or Xbox One. 
+
 ### The competition
 
 Rivals is a clan-type competition with players joining a **Crew** (using their PSN ID). It is the Crew that competes in Rivals Mode but rewards go to individual players. 
@@ -20,15 +22,21 @@ A Crew can consist of up to 10 players (PSN IDs). While a Code of Conduct is yet
 
 You can play in a Crew of 1 if you are so inclined, but it will be hard to compete at the top tier by yourself. 
 
-###  Aim and rewards
-
 ### Season and Challenge
 
 The competition cycle is called a **"Season"**. A Rivals Season is consists of eight weekly **Challenges.**
 
 Generally there is a week between seasons with no challenges, though it can be otherwise (for example there was a 2-week gap break over the 2017 Christmas holiday). 
 
-## Spotlight Songs
+### When does a weekly Challenge start/end?
+
+Challenges start at 15:00 in the US East Coast time on Thursdays, and end midnight (same timezone) on Tuesday night.
+
+_Timezone-wise that is EDT in the winter and EST in the summer_ or if you are confused, in whatever time it is in New York City.
+
+That makes it a 39 hour gap between challenges. 
+
+## Gameplay: Spotlight Songs
 
 ### If you played a Spotlight Song and the score didn't count
 
