@@ -20,7 +20,15 @@ Rivals is a clan-type competition with players joining a **Crew** (using their P
 
 A Crew can consist of up to 10 players (PSN IDs). While a Code of Conduct is yet to be published by Harmonix, discussions on reddit strongly imply that having more that 10 people in your crew (eg. by allowing a PSN ID to be shared) is considered cheating. 
 
-You can play in a Crew of 1 if you are so inclined, but it will be hard to compete at the top tier by yourself. 
+You can play in a Crew of 1 if you are so inclined, but it will be hard to compete at the top tier by yourself.
+
+### What is the point?
+
+To have fun playing RB while challenging yourself and cheering your crewmates on. 
+
+Oh, you mean specifically. There are essentially two things you can compete for:
+
+- Season Points define your overall position in the competition. The crew with the most Season Points wins (but see [Ties](#ties)
 
 ### Season and Challenge
 
@@ -49,11 +57,15 @@ You can only post a Spotlight Score for one crew during any one Challenge. So if
 
 ... your score won't post for Crew B's Spotlight. You can still earn XP for Crew B though. 
 
-## Bugs / Limitations
+## Bugs / Limitations / Weirdnesses
 
 ### Online play
 
 Not specific to Rivals, but because currently online play only supports one player at each console, it is not possible for a crew to play online together if some of them live in the same household and some are remote. 
+
+### Ties
+
+If two crews tie in Seasonal Points the tie-breaker seems to be a behind-the-scenes numeric identifier for the crews. Hence if Crew A and Crew B always end the Season in a tie for the top two positions, the same crew will always be the winner.
 
 ### Contributing
 
